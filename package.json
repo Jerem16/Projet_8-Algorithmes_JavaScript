@@ -1,0 +1,18 @@
+{
+    "name": "p8-da-jsreact",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "http-server .",
+        "test": "cypress open"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "http-server": "^14.1.1"
+    },
+    "devDependencies": {
+        "cypress": "^13.8.1"
+    }
+}
